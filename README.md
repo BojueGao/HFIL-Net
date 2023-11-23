@@ -2,8 +2,12 @@
 # Architecture
 ![](https://github.com/BojueGao/HFIL-Net/blob/master/overview2.0.png)
 # Requirements
-python 3.8\
-pytorch 1.11.0\
-torchvision
+* python 3.8\
+* pytorch 1.11.0\
+* torchvision
 # Saliency maps
-Baidu: [https://pan.baidu.com/s/1fnVErKzfMpm8yvq30zSEdA](https://pan.baidu.com/s/1fnVErKzfMpm8yvq30zSEdA?pwd=5yot) Code:5yot
+Baidu: [https://pan.baidu.com/s/1fnVErKzfMpm8yvq30zSEdA](https://pan.baidu.com/s/1fnVErKzfMpm8yvq30zSEdA?pwd=5yot)，Code：5yot
+# Trained model
+* Download the following trained models [HFILNet-epoch-best，Code：gl6j](https://pan.baidu.com/s/10L04GbovNMN-mH3c6lIG_w?pwd=g16j) and put them in /caps.
+* Modify pathes of trained models
+* Run
