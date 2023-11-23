@@ -12,5 +12,5 @@ Baidu: [https://pan.baidu.com/s/1fnVErKzfMpm8yvq30zSEdA](https://pan.baidu.com/s
 * Modify pathes of trained models
 * Run
   ```python
-  HFILBet_test.py
+  HFILNet_test.py
   ```
